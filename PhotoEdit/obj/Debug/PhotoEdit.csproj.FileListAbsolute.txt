@@ -1,0 +1,10 @@
+F:\my c#\PhotoEdit\PhotoEdit\bin\Debug\PhotoEdit.exe.config
+F:\my c#\PhotoEdit\PhotoEdit\bin\Debug\PhotoEdit.exe
+F:\my c#\PhotoEdit\PhotoEdit\bin\Debug\PhotoEdit.pdb
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.csprojResolveAssemblyReference.cache
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.Properties.Resources.resources
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.csproj.GenerateResource.Cache
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.exe
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.pdb
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.frmMain.resources
+F:\my c#\PhotoEdit\PhotoEdit\obj\Debug\PhotoEdit.frmImage.resources
